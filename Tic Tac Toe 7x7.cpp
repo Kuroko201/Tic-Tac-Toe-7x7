@@ -1,7 +1,7 @@
 //Tic Tac Toe game made by Kuro201.
 //For practice use, if you found any bugs, feel free to tell me!
 // default is 7x7 grid, 5 same letters to win
-// This should work no matter the size of grid and the same letters to win 
+// This should work no matter the size of the grid and the same letters to win 
 #include <iostream>
 #include <string>
 #include <Windows.h>
